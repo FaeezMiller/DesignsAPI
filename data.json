@@ -1,0 +1,27 @@
+{
+    "products": [
+        {
+          "itemName": "OLD SKOOL",
+          "imageSrc": "https://i.postimg.cc/65WfN4Jc/oldskool.jpg",
+          "action": "PURCHASE"
+        },
+        {
+          "itemName": "ERA",
+          "imageSrc": "https://i.postimg.cc/T29Hm6Tk/era.jpg",
+          "action":"PURCHASE"
+        },
+        {
+          "itemName": "SK8-HI",
+          "imageSrc": "https://i.postimg.cc/PfPSRFZy/sk8-HI.jpg",
+          "action": "PURCHASE"
+        },
+        {
+          "itemName": "AUTHENTIC",
+          "imageSrc": "https://i.postimg.cc/XqfGPbgX/auth.jpg",
+          "action": "PURCHASE"
+        },
+        
+        
+      
+      ], 
+}
